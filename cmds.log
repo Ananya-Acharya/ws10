@@ -1,0 +1,14 @@
+  991  tmux attach -t homework
+  992  cd /mnt/scratch/ananya/ws10
+  993  vi *.sh
+  994  ls
+  995  vi num.sh
+  996  time num.sh
+  997  time ./numbers.sh
+  998  vi numbers.py
+  999  vi num.sh
+ 1000  ./num.sh
+ 1001  cat numbers.sh 
+ 1002  time python3 numbers.py
+ 1003  time . numbers.sh
+ 1004  history>cmds_2.log
